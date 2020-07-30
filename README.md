@@ -1,5 +1,7 @@
 # AlgoNimator
 Algorithm Visualiser
 
-##Installation
+##  Installation
+- Clone this Repo
+- Go inside AlgoNimator folder 
 
