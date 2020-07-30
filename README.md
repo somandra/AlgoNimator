@@ -1,2 +1,5 @@
 # AlgoNimator
 Algorithm Visualiser
+
+##Installation
+
